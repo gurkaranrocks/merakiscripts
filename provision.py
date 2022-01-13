@@ -5,7 +5,7 @@ readMe = """
  updates the firewall rules, create DHCP reservation and setup site to site VPN.
 
 Usage:
-  python cloneprovision.py -k <api key> -o <org name> -b <base net name> -f <input file name>
+  python provision.py -k <api key> -o <org name> -b <base net name> -f <input file name>
   
 Parameters:
     -k <api key>            : Your Meraki Dashboard API key
